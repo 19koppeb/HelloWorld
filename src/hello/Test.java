@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("17");
 		System.out.println("Java");
 		System.out.println("Liger");
+		System.out.println("Ford Focus");
 	}
 
 }
